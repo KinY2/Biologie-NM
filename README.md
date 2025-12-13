@@ -2,10 +2,7 @@
 Notes pour étudier Biologie NM
 
 <details>
-<summary>Part 1: Cell Biology</summary>
+  <summary>Partie 1 : Cellules</summary>
 
-- [Chapter 1: Cell Structure](01_Cell_Biology.md#cell-structure)
-- [Chapter 2: Membrane Transport](01_Cell_Biology.md#membrane-transport)
-- [Chapter 3: Organelles](01_Cell_Biology.md#organelles)
-
+  - [A2.2 La structure cellulaire](A2.2)
 </details>
