@@ -12,3 +12,6 @@ Notes pour réviser Biologie NM
 Ressources utiles (que j'utilise avec auto-traduction):
 - [Bioninja (théorie) ](https://ib.bioninja.com.au/)
 - [Ipassed (QCM)](https://ipassed.gg/)
+
+---
+Contact yoski686@school.lu
