@@ -6,3 +6,12 @@ Notes pour réviser Biologie NM
   - [B2.3 La spécialisation cellulaire](B2.3.md)
   - [B2.2 Les organites et la compartimentation](B2.2.md)
 
+---
+
+En construction :hammer:
+
+### Partie 2 : Molécules
+  - [A1.1 L'eau](A1.1.md)
+  - [B1.1 Les glucides et les lipides](B1.1.md)
+  - [A1.2 Les acides nucléiques](A1.2.md)
+  - [B1.2 Les protéines](B1.2.md)
