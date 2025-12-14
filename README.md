@@ -1,5 +1,5 @@
 # Biologie NM
-Notes pour étudier Biologie NM
+Notes pour réviser Biologie NM
 
 ### Partie 1 : Cellules
   - [A2.2 La structure cellulaire](A2.2.md)
