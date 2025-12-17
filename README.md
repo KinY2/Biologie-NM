@@ -9,7 +9,8 @@ Notes pour réviser Biologie NM
   - [A1.1 L'eau](A1.1.md)
   - [B1.1 Les glucides et les lipides](B1.1.md)
   - [A1.2 Les acides nucléiques](A1.2.md)
-  - [B1.2 Les protéines](B1.2.md) :hammer:
+  - [B1.2 Les protéines](B1.2.md)
+### Partie 3 :hammer:
 ---
 
 Ressources utiles (que j'utilise avec auto-traduction):
