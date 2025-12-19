@@ -1,6 +1,9 @@
 # Biologie NM
 Notes pour réviser Biologie NM
 
+(Même contenu, sous forme site : [https://kiny2.github.io/Biologie-NM/](https://kiny2.github.io/Biologie-NM/)
+]
+
 ### Partie 1 : Cellules
   - [A2.2 La structure cellulaire](A2.2.md)
   - [B2.3 La spécialisation cellulaire](B2.3.md)
@@ -11,6 +14,8 @@ Notes pour réviser Biologie NM
   - [A1.2 Les acides nucléiques](A1.2.md)
   - [B1.2 Les protéines](B1.2.md)
 ### Partie 3 :hammer:
+  - B2.1 Les membranes et le transport membranaire :hammer:
+  - D2.3 Le potentiel hydrique :hammer:
 ---
 
 Ressources utiles (que j'utilise avec auto-traduction):
