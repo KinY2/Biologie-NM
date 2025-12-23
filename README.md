@@ -15,7 +15,7 @@ Notes pour réviser Biologie NM
   - [B1.2 Les protéines](B1.2.md)
 
 ### Partie 3 :hammer:
-  - [B2.1 Les membranes et le transport membranaire](B2.1.md) :hammer:
+  - [B2.1 Les membranes et le transport membranaire](B2.1.md)
   - [D2.3 Le potentiel hydrique](D2.3.md) :hammer:
 ---
 
