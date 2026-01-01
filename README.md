@@ -14,9 +14,16 @@ Notes pour réviser Biologie NM
   - [A1.2 Les acides nucléiques](A1.2.md)
   - [B1.2 Les protéines](B1.2.md)
 
-### Partie 3 :hammer:
+### Partie 3 : Membranes
   - [B2.1 Les membranes et le transport membranaire](B2.1.md)
-  - [D2.3 Le potentiel hydrique](D2.3.md) :hammer:
+  - [D2.3 Le potentiel hydrique](D2.3.md)
+
+### Partie 4 : Métabolisme :hammer:
+  - [C1.1 Les enzymes et le métabolisme](C1.1.md) :hammer:
+  - [C1.2 La respiration cellulaire](C1.2.md):hammer:
+  - [C1.3 La photosynthèse](C1.3.md):hammer:
+  - [D1.1 La réplication de l'ADN](D1.1.md):hammer:
+  - [D1.2 La synthèse des protéines](D.1.2.md):hammer:
 ---
 
 Ressources utiles (que j'utilise avec auto-traduction):
