@@ -26,7 +26,7 @@ Notes pour réviser Biologie NM
   - [D1.2 La synthèse des protéines](D1.2.md)
 
 ### Partie 5 : Génétique :hammer:
-  - [D2.1 La division cellulaire et la division nucléaire](D2.1.md) :hammer:
+  - [D2.1 La division cellulaire et la division nucléaire](D2.1.md)
   - [D3.1 La reproduction](D3.1.md) :hammer:
   - [D1.3 Les mutations et la modification génomique](D1.3.md) :hammer:
   - [D3.2 L'hérédité](D3.2.md) :hammer:
