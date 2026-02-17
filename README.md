@@ -27,10 +27,18 @@ Notes pour réviser Biologie NM
 
 ### Partie 5 : Génétique :hammer:
   - [D2.1 La division cellulaire et la division nucléaire](D2.1.md)
-  - [D3.1 La reproduction](D3.1.md) :hammer:
+  - [D3.1 La reproduction](D3.1.md)
   - [D1.3 Les mutations et la modification génomique](D1.3.md) :hammer:
   - [D3.2 L'hérédité](D3.2.md) :hammer:
 ---
+
+
+### Partie 8 : Évolution :hammer:
+  - [A3.1 La diversité des organismes](A3.1.md)
+  - [A4.1 L'évolution et la spéciation](A4.1.md)
+  - [D4.1 La sélection naturelle](D4.1.md)
+
+OK j'abandonne.
 
 Ressources utiles (que j'utilise avec auto-traduction):
 - [Bioninja (théorie) ](https://ib.bioninja.com.au/)
