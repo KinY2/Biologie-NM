@@ -46,10 +46,10 @@ Notes pour réviser Biologie NM
 - [D4.2 La durabilité et le changement](D4.2.md)
 - [D4.3 Le changement climatique](D4.3.md)
 
-### Partie 8 : Évolution :hammer:
-- [A3.1 La diversité des organismes](A3.1.md) :hammer:
-- [A4.1 L'évolution et la spéciation](A4.1.md) :hammer:
-- [D4.1 La sélection naturelle](D4.1.md) :hammer:
+### Partie 8 : Évolution 
+- [A3.1 La diversité des organismes](A3.1.md) 
+- [A4.1 L'évolution et la spéciation](A4.1.md)
+- [D4.1 La sélection naturelle](D4.1.md)
 ---
 
 |     | 1 | 2 | 3 | 4 |
