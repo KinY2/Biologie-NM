@@ -12,3 +12,19 @@ belle de nuit rouge (CR), blanche (CB) ou rose
 - CBCB -> phénotype blanc
 - CRCB -> phénotype rose
 
+-exemple allèle codominance et récessif
+groupe sanguins A (IA) B (IB) et O (i)
+- IAIA, IAi -> A
+- IBIB, IBi -> B
+- IAIB -> AB
+- ii -> O
+
+
+-exemple maladie génétique autosomique récessive
+musovicidose F (normal, dominant), f (musovicidose, récessif)
+- FF -> normal
+- Ff -> normal (mais porteur)
+- ff -> malade
+
+-exemple maladie génétique autosomique récessive
+phénylcétonurie (PCU) causée par mutation d'un gène qui code pour l'enzyme phénylalanine hydroxylase (PAH)
