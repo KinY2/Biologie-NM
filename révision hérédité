@@ -33,5 +33,15 @@ F1- carré de Punnet: génotypes AA Aa Aa aa : phénotypes normal, poreteuse, ma
 pas malade:malade = 75%:25%
 
 -exemple maladie autosomique dominante
+huntington: H(malade) et h(normal)
+- hh -> normal
+- Hh -> malade (hétérozygote)
+- HH -> malade (homozygote)
 
-(
+-exemple maladie génétique autosomique codominante:
+anémie à cellules falciformes HbA (normal) et HbS (malade)
+- HbAHbA -> normal
+- HbAHbS -> faible anémie (résistance à la malaria)
+- HbSHbS -> anémie sévère (résistance accrue à la malaria)
+(remarque: codominance - HbAHbS produit des GR (glob. r.) normaux et anormaux (les deux))
+
